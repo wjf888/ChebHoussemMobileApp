@@ -1,0 +1,11 @@
+{
+ "android": {
+     "release": {
+         "keystore":"c:\\my-release-key.keystore",
+     "storePassword":"radwan21",
+     "alias":"johnS",
+   "password":"radwan21",
+           "keystoreType":""
+       }
+   }
+}

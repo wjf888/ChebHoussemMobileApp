@@ -18,7 +18,7 @@ myapp.controller('musicController', ['$scope', '$compile', '$timeout', function 
     $scope.like = false;
     $scope.music = [{
         artist: 'Cheb Houssem',
-        img: '/img/h.png',
+        img: 'h.png',
         track: "Tiamo Tiamo",
         audio: 'sounds/Tiamo_Tiamo.mp3',
         length: "11:14",
@@ -26,7 +26,7 @@ myapp.controller('musicController', ['$scope', '$compile', '$timeout', function 
         currTime: '0:00'
     }, {
         artist: 'Cheb Houssem',
-        img: '/img/h1.png',
+        img: 'h1.png',
         track: "Semhili Ya Ma",
         audio: 'sounds/Semhili_Ya_Ma.mp3',
         length: "11:12",
@@ -34,7 +34,7 @@ myapp.controller('musicController', ['$scope', '$compile', '$timeout', function 
         currTime: '0:00'
     }, {
         artist: 'Cheb Houssem',
-        img: '/img/h1.png',
+        img: 'h1.png',
         track: "Sayi M3ak Manzid ",
         audio: 'sounds/Sayi_M3ak_Manzid.mp3',
         length: "7:45",
@@ -42,7 +42,7 @@ myapp.controller('musicController', ['$scope', '$compile', '$timeout', function 
         currTime: '0:00'
     }, {
         artist: 'Cheb Houssem',
-        img: '/img/h.png',
+        img: 'h.png',
         track: "Ana Sbabi Bouha",
         audio: 'sounds/Ana_Sbabi_Bouha.mp3',
         length: "17:51",

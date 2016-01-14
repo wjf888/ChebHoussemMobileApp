@@ -5,6 +5,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Android'">
     <DebuggerFlavor>RippleNexus</DebuggerFlavor>
+    <AndroidEmulatorID>AndroidDevice;Device</AndroidEmulatorID>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Android'">
     <DebuggerFlavor>AndroidEmulator</DebuggerFlavor>

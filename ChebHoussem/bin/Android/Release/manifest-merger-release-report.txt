@@ -4,11 +4,11 @@ ADDED from AndroidManifest.xml:2:1
 	android:hardwareAccelerated
 		ADDED from AndroidManifest.xml:2:11
 	xmlns:android
-		ADDED from AndroidManifest.xml:2:135
+		ADDED from AndroidManifest.xml:2:133
 	package
-		ADDED from AndroidManifest.xml:2:102
+		ADDED from AndroidManifest.xml:2:100
 	android:versionName
-		ADDED from AndroidManifest.xml:2:74
+		ADDED from AndroidManifest.xml:2:72
 	android:versionCode
 		ADDED from AndroidManifest.xml:2:46
 		INJECTED from AndroidManifest.xml:0:0
